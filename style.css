@@ -1,0 +1,14 @@
+
+body{
+    --bs-body-bg: rgba(114, 198, 219, 0.432);
+}
+tr{
+    background-color: rgba(5, 175, 218, 0.63);
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+dt{
+    font-weight: bold;
+    background-color: rgb(224, 171, 171);
+    color: rgb(0, 0, 0);
+}
